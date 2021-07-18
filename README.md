@@ -1,5 +1,5 @@
 -  Hi, I’m Guilherme Soares!👋
--  I’m interested in Machine Learning, Computer Vision and Signal Processing. Willing to learn Front-End development for various applications. 🤖
+-  I’m interested in Machine Learning, Computer Vision and Signal Processing. 🤖
 -  I'm in my fourth year of studies towards a bachelor in Electrical Engineering at University of Campinas (UNICAMP), Brazil. ⚡
 -  Reach me through my [LinkedIn profile](https://www.linkedin.com/in/gmsoso/). Feel free to send a message. 🤙
 
